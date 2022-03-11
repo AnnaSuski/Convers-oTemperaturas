@@ -1,0 +1,9 @@
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\bin\Debug\Conversaodetemperatura.exe.config
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\bin\Debug\Conversaodetemperatura.exe
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\bin\Debug\Conversaodetemperatura.pdb
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\obj\Debug\Conversaodetemperatura.csprojResolveAssemblyReference.cache
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\obj\Debug\Conversaodetemperatura.form.resources
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\obj\Debug\Conversaodetemperatura.Properties.Resources.resources
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\obj\Debug\Conversaodetemperatura.csproj.GenerateResource.Cache
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\obj\Debug\Conversaodetemperatura.exe
+D:\ds\ConversaoTemperatura\Conversaodetemperatura\obj\Debug\Conversaodetemperatura.pdb
